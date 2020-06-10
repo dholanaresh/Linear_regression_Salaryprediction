@@ -1,0 +1,2 @@
+# Linear_regression_Salaryprediction
+Salary prediction using Machine learning aglorithm_Linear regression
